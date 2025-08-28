@@ -1,1 +1,4 @@
-https://raw.githubusercontent.com/FrogPossibility/SoulSS-v3/main/modulenumber
+{
+  "success": true,
+  "data": "https://raw.githubusercontent.com/FrogPossibility/SoulSS-v3/main/modulenumber"
+}
